@@ -24,8 +24,12 @@ Building Microservices: Designing Fine-Grained Systems
 <br/>Quantum Physics for Beginners, Wooster
 <br/>Machine Learning Design Patterns
 <br/>Designing Machine Learning Systems
-<br/>
-<br/>
+
+##Machine Learning Survey
+<br/>The Hundred-Page Machine Learning Book
+
+##Machine Learning Engineering
+<br/> ML Engineering, Burkov
 <br/>
 <br/>
 <br/>
