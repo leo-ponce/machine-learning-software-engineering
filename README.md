@@ -14,3 +14,23 @@ Clean Agile
 Software Engineering at Google, Titus Winters
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 
 Building Microservices: Designing Fine-Grained Systems
+
+
+##Machine Theory##
+<br/>Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
+<br/>Gödel, Escher, Bach: An Eternal Golden Braid
+<br/>Grokking Algorithms
+<br/>Code: The Hidden Language of Computer Hardware and Software 1st Edition
+<br/>Quantum Physics for Beginners, Wooster
+<br/>Machine Learning Design Patterns
+<br/>Designing Machine Learning Systems
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
