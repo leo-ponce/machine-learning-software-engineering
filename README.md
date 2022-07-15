@@ -6,6 +6,8 @@
 ##Data Science
 Pandas book
 Cleaning Data for Effective Data Science, Mertz
+Storytelling with Data: A Data Visualization Guide for Business Professionals
+
 
 deeplearning andrew ang
 pipelines
@@ -26,6 +28,8 @@ Software Engineering at Google, Titus Winters
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 
 Building Microservices: Designing Fine-Grained Systems
 
+##DevOps
+<br/>The DevOps Handbook, Second Edition: How to Create World-Class Agility, Reliability, & Security in Technology Organizations
 
 ##Artificial Intelligence
 <br/>Stanford course
@@ -55,6 +59,7 @@ Designing Machine Learning Systems: An Iterative Process for Production-Ready Ap
 ##Deep Learning##
 <br/> Deep Reinforcement Learning Book
 <br/> Neural Network Projects with Python
+
 <br/>
 <br/>
 <br/>
