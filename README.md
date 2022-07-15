@@ -14,7 +14,10 @@ Clean Agile
 Software Engineering at Google, Titus Winters
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 
 Building Microservices: Designing Fine-Grained Systems
-
+##Artificial Intelligence
+<br/>Stanford course
+<br/>AI and Machine Learning for Coders
+<br/>Advances in Financial Machine Learning
 
 ##Machine Theory##
 <br/>Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
@@ -30,7 +33,10 @@ Building Microservices: Designing Fine-Grained Systems
 
 ##Machine Learning Engineering
 <br/> ML Engineering, Burkov
-<br/>
+
+##Deep Learning##
+
+<br/> Deep Reinforcement Learning Book
 <br/>
 <br/>
 <br/>
