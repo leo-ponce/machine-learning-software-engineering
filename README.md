@@ -1,5 +1,12 @@
 # machine-learning-software-engineering
 
+
+##Data
+
+##Data Science
+Pandas book
+Cleaning Data for Effective Data Science, Mertz
+
 deeplearning andrew ang
 pipelines
 systems
@@ -41,18 +48,21 @@ Designing Machine Learning Systems: An Iterative Process for Production-Ready Ap
 
 ##Machine Learning Engineering
 <br/> ML Engineering, Burkov
+<br/> Building Machine Learning Pipelines  with Tensorflow, Hapke
+<br/> Dancing with Qubits: How quantum computing works and how it can change the world 
+<br/>Machine Learning Solutions Architect Handbook: Create machine learning platforms to run solutions in an enterprise setting 
 
 ##Deep Learning##
-
 <br/> Deep Reinforcement Learning Book
+<br/> Neural Network Projects with Python
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 ##Types of Machine Intelligence
-Practical Threat Intelligence  https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370/ref=zg_bs_280292_25/141-9801121-3084632?pd_rd_i=1838556370&psc=1
-
-
+Risk and Threat Prediction - Practical Threat Intelligence  https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370/ref=zg_bs_280292_25/141-9801121-3084632?pd_rd_i=1838556370&psc=1
+Finance - Machine Learning and Data Science Blueprints for Finance: From Building Trading Strategies to Robo-Advisors Using Python
+Quantum Computing - Dancing with Qubits: How quantum computing works and how it can change the world 
