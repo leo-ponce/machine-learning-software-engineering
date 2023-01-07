@@ -8,7 +8,7 @@ Pandas book
 Cleaning Data for Effective Data Science, Mertz
 Storytelling with Data: A Data Visualization Guide for Business Professionals
 
-
+ML Engineering Burkov
 deeplearning andrew ang
 pipelines
 systems
